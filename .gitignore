@@ -1,0 +1,19 @@
+# Private/source data
+data/raw/
+data/interim/
+*.wav
+*.mp3
+*transcript*
+
+# Local environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+.pytest_cache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

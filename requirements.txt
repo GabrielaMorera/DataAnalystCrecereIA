@@ -1,0 +1,5 @@
+faster-whisper==1.2.1
+numpy>=2.0,<3
+pandas>=3.0,<4
+scipy>=1.15,<2
+statsmodels>=0.14,<1
