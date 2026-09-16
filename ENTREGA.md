@@ -11,7 +11,7 @@
 - roberto@crecere.ai
 - tatiana@crecere.ai
 
-## Texto sugerido
+## Cuerpo
 
 Hola,
 
@@ -24,13 +24,5 @@ El análisis se ejecutó localmente; el repositorio excluye audios y transcripci
 
 Quedo atento/a a sus comentarios.
 
-[NOMBRE APELLIDO]  
-[TELÉFONO]
-
-## Antes de enviar
-
-- [ ] Reemplazar nombre, cédula, teléfono y URL del repositorio.
-- [ ] Abrir el HTML en otro equipo o navegador.
-- [ ] Confirmar que el repositorio sea público.
-- [ ] Verificar que no haya audios ni transcripciones en Git.
-- [ ] Adjuntar el HTML y probar el enlace de GitHub en una ventana privada.
+MARIA GABRIELA MORERA MURCIA
+3235913404
