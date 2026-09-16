@@ -2,7 +2,7 @@
 
 ## Asunto
 
-`PRUEBA TÉCNICA – [NOMBRE APELLIDO] – [CÉDULA]`
+`PRUEBA TÉCNICA – GABRIELA MORERA CC 1192745586`
 
 ## Destinatarios
 
@@ -18,7 +18,7 @@ Hola,
 Comparto mi prueba técnica para el rol Data Scientist / Data Analyst Junior:
 
 1. Reporte ejecutivo HTML: adjunto `reporte_ejecutivo.html`.
-2. Repositorio público con código y metodología: `[PEGAR URL DE GITHUB]`.
+2. Repositorio público con código y metodología: https://github.com/GabrielaMorera/DataAnalystCrecereIA .
 
 El análisis se ejecutó localmente; el repositorio excluye audios y transcripciones por privacidad.
 
